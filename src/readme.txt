@@ -1,3 +1,1 @@
-This directory contains the source code files (*.cpp, *.h)
-that you will write as you complete the assignment.
-We will also put any instructor-provided code here.
+The bogglemain.cpp and bogglegui.cpp files were provided by the instructor as a starting point for the assignment. Boggle.cpp, Boggle.h, and boggleplay.cpp began with main function headers defined, but all function bodies and helper functions are my work.
