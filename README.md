@@ -1,1 +1,1 @@
-# Boggle
+Please reference src directory for content relevant to solution.
